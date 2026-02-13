@@ -2,3 +2,4 @@ Initial file
 Remote change
 Second remote change
 Incremental change 1
+Incremental change 2
